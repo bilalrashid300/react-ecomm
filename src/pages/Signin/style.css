@@ -1,0 +1,15 @@
+ul li{
+    list-style-type: none;
+}
+
+ul{
+    padding: 0px;
+}
+
+.successToken li{
+    color: #B48E80;
+}
+
+.errorToken li{
+    color: rgb(182, 1, 1);
+}
